@@ -12,4 +12,5 @@ I initiated with Flutter app(Catalog App).Using Codepur YT channel which is prov
 -scaffold
 -routes
 -drawer
-<img width="204" alt="image" src="https://user-images.githubusercontent.com/95427620/219548792-26a528e8-d816-4f1a-b1f0-227342c290c6.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/95427620/219548894-bcd41fca-e250-4a07-b8b1-773cb093a529.png">
+
