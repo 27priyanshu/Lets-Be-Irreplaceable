@@ -24,4 +24,15 @@ Made login ui of Catalog App
 -elevatedButtons<br>
 -sizedbox<br>
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/95427620/219564946-b2e14f85-f56b-4f4d-b1cb-f3a0aed08e62.png">
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+<h3>@day3--18/feb/2023</h3>
+
+<h4>What i learn today</h4>
+-singleChildScrollView to avoid over flow condition(when screen size is small) & to make it more responsive.<br>
+-Navigator to shift from one screen to another by making a different class in different folder named:utils/routes.dart <br>
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/95427620/219873080-4e07fc7b-6ecb-49e5-9afd-1ed0f062925a.png">
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
 
