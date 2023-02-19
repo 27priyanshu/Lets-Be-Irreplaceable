@@ -35,4 +35,10 @@ Made login ui of Catalog App
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
+<h3>@day4--19/feb/2023</h3>
 
+<h4>What i learn today</h4>
+-statelesswidget & statefullwidget--> changes within the screen.<br>
+-container (animated)<br>
+-future delay<br>
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/95427620/219935266-627fc9a8-5246-4be0-a0bd-c7820044ac7c.png">
