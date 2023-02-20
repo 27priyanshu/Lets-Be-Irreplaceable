@@ -42,3 +42,18 @@ Made login ui of Catalog App
 -container (animated)<br>
 -future delay<br>
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/95427620/219935266-627fc9a8-5246-4be0-a0bd-c7820044ac7c.png">
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+<h3>@day5--20/feb/2023</h3>
+
+<h4>What i learn today</h4>
+-flutter/ dart-devtools,widget tree,layout explorer</br>
+-worked on Drawer using listTile <br>
+-used cupertino icons<br>
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/95427620/220154371-9c0c5338-dea4-4151-ab66-0818dd6d5143.png">
+
+
+
+
+
