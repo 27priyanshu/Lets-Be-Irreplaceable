@@ -53,6 +53,14 @@ Made login ui of Catalog App
 -used cupertino icons<br>
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/95427620/220154371-9c0c5338-dea4-4151-ab66-0818dd6d5143.png">
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+<h3>@day6--20/feb/2023</h3>
+
+<h4>What i learn today</h4>
+-models<br>
+-Appbar Theme<br>
+-how we can extract those themes in my home page<br>
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/95427620/220237071-6f674806-5dba-485e-9fce-95feffedc561.png">
 
 
 
