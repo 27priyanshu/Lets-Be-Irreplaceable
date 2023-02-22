@@ -71,6 +71,16 @@ Made login ui of Catalog App
 -constraint<br>
 <img width="848" alt="image" src="https://user-images.githubusercontent.com/95427620/220537427-3283e114-5063-4c96-a9b3-87e6f154666d.png">
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+<h3>@day7--22/feb/2023</h3>
+
+<h4>What i learn today</h4>
+-listview builder<br>
+-swicthedlist tile<br>
+-In branch - day 11<br>
+-Card & Asserts
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/95427620/220668110-1224584d-3e79-4fd2-8cde-6d73249531c4.png">
+
 
 
 
