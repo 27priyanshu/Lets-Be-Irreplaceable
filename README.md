@@ -80,6 +80,16 @@ Made login ui of Catalog App
 -In branch - day 11<br>
 -Card & Asserts
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/95427620/220668110-1224584d-3e79-4fd2-8cde-6d73249531c4.png">
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+<h3>@day8--23/feb/2023</h3>
+
+<h4>What i learn today</h4>
+-Local Files<br>
+-Load & Decode JSON<br>
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/95427620/220816040-4a085522-1952-485a-9d6c-be03d4f018fd.png">
+
+
+
 
 
 
