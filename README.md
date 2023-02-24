@@ -88,6 +88,19 @@ Made login ui of Catalog App
 -Load & Decode JSON<br>
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/95427620/220816040-4a085522-1952-485a-9d6c-be03d4f018fd.png">
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+<h3>@day9--24/feb/2023</h3>
+
+<h4>What i learn today</h4>
+-JSON Mapping <br>
+-Data Class Generator<br>
+-ProgressIndicator<br>
+
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/95427620/221137604-cd4732f0-b64f-4a11-b11f-23791ba99c3e.png">
+
+
+
+
 
 
 
