@@ -105,6 +105,15 @@ Made login ui of Catalog App
 -grid view<br>
 -grid tile<br>
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/95427620/221221317-9d42a30c-792b-4956-af34-b77148de13f5.png">
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+<h3>@day10--25/feb/2023</h3>
+
+<h4>What i learn today</h4>
+-Beautiful UI<br>
+-Using Dependency like Velocity_X<br>
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/95427620/221345009-7c0dbe86-d67d-4b86-a8a0-d483d3aca877.png">
+
+
 
 
 
