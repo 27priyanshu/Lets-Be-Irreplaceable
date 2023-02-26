@@ -121,6 +121,16 @@ Made login ui of Catalog App
 -I used Velocity_X package to design and develop This UI<br>
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/95427620/221394317-0d976861-3135-4ab2-9798-ed9ceecb4a15.png">
 
+----------------------------------------------------------------------------------------------------------------------------------------------------
+<h3>@day11--26/feb/2023</h3>
+
+<h4>What i learn today</h4>
+-Hero Animation<br>
+-MaterialPageRoute <br>
+-Arc<br>
+-Managed All widgets files<br>
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/95427620/221401503-e3b1a298-2307-4dab-bd52-06fbafcc0f9a.png">
+
 
 
 
