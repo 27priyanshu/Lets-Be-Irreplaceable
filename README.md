@@ -113,6 +113,16 @@ Made login ui of Catalog App
 -Using Dependency like Velocity_X<br>
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/95427620/221345009-7c0dbe86-d67d-4b86-a8a0-d483d3aca877.png">
 
+----------------------------------------------------------------------------------------------------------------------------------------------------
+<h3>@day11--26/feb/2023</h3>
+
+<h4>What i learn today</h4>
+-Completed Homepage UI<br>
+-I used Velocity_X package to design and develop This UI<br>
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/95427620/221394317-0d976861-3135-4ab2-9798-ed9ceecb4a15.png">
+
+
+
 
 
 
