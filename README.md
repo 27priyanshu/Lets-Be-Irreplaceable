@@ -151,6 +151,18 @@ Made login ui of Catalog App
 -System Themes<br>
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/95427620/221473693-646e87ff-eb14-41d7-bbbc-05e76f5256f7.png">
 
+----------------------------------------------------------------------------------------------------------------------------------------------------
+<h3>@day14--01/march/2023</h3>
+
+<h4>What i learn today</h4>
+-Catalog Model Fix <br>
+-AppBar Fix <br>
+-Placeholder <br>
+-Cart Page<br>
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/95427620/222174206-adee0bb9-caf1-4025-ae2b-4baad6fc6678.png">
+
+
+
 
 
 
