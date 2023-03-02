@@ -161,7 +161,14 @@ Made login ui of Catalog App
 -Cart Page<br>
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/95427620/222174206-adee0bb9-caf1-4025-ae2b-4baad6fc6678.png">
 
+----------------------------------------------------------------------------------------------------------------------------------------------------
+<h3>@day15--02/march/2023</h3>
 
+<h4>What i learn today</h4>
+-ScaffoldMessenger <br>
+-Cart Model <br>
+-List fold <br>
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/95427620/222322975-de6f72ed-5ea6-473d-be9f-f39a5b4b4598.png">
 
 
 
