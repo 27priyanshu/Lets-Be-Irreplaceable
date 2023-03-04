@@ -176,8 +176,11 @@ Made login ui of Catalog App
 
 <h4>What i learn today</h4>
 -Add To Cart Functionality<br>
+-Bad Code To The Rescue<br>
 
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/95427620/222875636-b8ed0a30-54be-4645-8711-f0f75e7004f2.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/95427620/222875636-b8ed0a30-54be-4645-8711-f0f75e7004f2.png"><br>
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/95427620/222877298-cc6755f6-2997-41d4-bcdf-4776f8532f3f.png">
+
 
 
 
