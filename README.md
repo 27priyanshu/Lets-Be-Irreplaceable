@@ -181,6 +181,17 @@ Made login ui of Catalog App
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/95427620/222875636-b8ed0a30-54be-4645-8711-f0f75e7004f2.png"><br>
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/95427620/222877298-cc6755f6-2997-41d4-bcdf-4776f8532f3f.png">
 
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+<h3>@day17--05/march/2023</h3>
+
+<h4>What i learn today</h4>
+-VelocityX State Management <br>
+-VxState <br>
+-VxStore <br>
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/95427620/222940655-a0fb7a5a-870f-4d44-958b-0e3a65cb34c8.png">
+
+
 
 
 
