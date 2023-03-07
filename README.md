@@ -200,7 +200,14 @@ Made login ui of Catalog App
 -VxMutation <br>
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/95427620/223131077-27f6028e-6922-4e6a-862c-9d0c7339c1e1.png">
 
+----------------------------------------------------------------------------------------------------------------------------------------------------
+<h3>@day19--07/march/2023</h3>
 
+<h4>What i learn today</h4>
+-VelocityX State Management <br>
+-VxBuilder <br>
+-VxConsumer <br>
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/95427620/223333826-e3565d30-e280-4d9f-b011-c5ac81434770.png">
 
 
 
