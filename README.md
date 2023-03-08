@@ -223,6 +223,13 @@ Made login ui of Catalog App
 
 <h3>on 07/march/2023 i successfully completed my project -  CatalogApp </h3>
 
+----------------------------------------------------------------------------------------------------------------------------------------------------
+<h3>@day20--08/march/2023</h3>
+
+<h4>What i learn today</h4>
+-I tried to build Fruit detection app using Machine learning tool kit named- Tensorflow lite(tflite) but due to unavailability/lack of dataset i have to discontinue to work on this project.<br>
+-but i learned how to attach camera in my app <br>
+
 
 
 
