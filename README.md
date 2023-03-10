@@ -230,6 +230,14 @@ Made login ui of Catalog App
 -I tried to build Fruit detection app using Machine learning tool kit named- Tensorflow lite(tflite) but due to unavailability/lack of dataset i have to discontinue to work on this project.<br>
 -but i learned how to attach camera in my app <br>
 
+----------------------------------------------------------------------------------------------------------------------------------------------------
+<h3>@day22--10/march/2023</h3>
+
+<h4>What i learn today</h4>
+-I build an app which is integrated with google map api <br>
+-Made marker and infowindow in it and gave my personal/current location by which it can easily redirect to google maps.<br>
+<img width="164" alt="image" src="https://user-images.githubusercontent.com/95427620/224334864-e10c9d6c-79e7-4c45-8503-2502503006ad.png">
+<img width="159" alt="image" src="https://user-images.githubusercontent.com/95427620/224334957-cb869f71-3af4-43f6-853d-4ac4f9cc954f.png">
 
 
 
