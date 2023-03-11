@@ -240,9 +240,12 @@ Made login ui of Catalog App
 <img width="159" alt="image" src="https://user-images.githubusercontent.com/95427620/224334957-cb869f71-3af4-43f6-853d-4ac4f9cc954f.png">
 
 
+----------------------------------------------------------------------------------------------------------------------------------------------------
+<h3>@day22--11/march/2023</h3>
 
-
-
+<h4>What i learn today</h4>
+-Made custom marker and infowindow in it and gave my personal/current location by which it can easily redirect to google maps.<br>
+<img width="159" alt="image" src="https://user-images.githubusercontent.com/95427620/224334957-cb869f71-3af4-43f6-853d-4ac4f9cc954f.png">
 
 
 
